@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(1, 1, 1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    
+}
+
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 17, 146);
+    padding: 20px;
+    border-radius: 30cap;
+    margin-top: 20px;
+   
+   
+     
+}
+
+.timer {
+    margin-top: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 600%;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(0, 17, 146);
+    padding: 20px, 24px;
+    border-radius: 30px;
+    
+}
+
+input {
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: var(--clr);
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    height: 38px;
+    padding: 8px 24px;
+    border-radius: 50px;
+    margin-inline: 10px;
+    color: aliceblue;
+  
+    
+}
+
